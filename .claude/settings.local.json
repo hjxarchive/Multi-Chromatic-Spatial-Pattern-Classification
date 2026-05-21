@@ -9,7 +9,9 @@
       "Bash(pip list:*)",
       "Bash(.venv/bin/python linear_separability.py)",
       "Bash(.venv/bin/python barcode_contribution.py)",
-      "Bash(kill 18959:*)"
+      "Bash(kill 18959:*)",
+      "Bash(.venv/bin/python:*)",
+      "Bash(xargs kill:*)"
     ]
   }
 }
